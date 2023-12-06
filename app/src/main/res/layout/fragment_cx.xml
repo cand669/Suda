@@ -5,14 +5,8 @@
     android:layout_height="match_parent">
 
     <Button
-        android:text="activity_siva"
+        android:text="fragment_cx"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
-
-
-    <com.example.sto.widget.NoScrollViewPager
-        android:id="@+id/vp"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"/>
 
 </LinearLayout>
