@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Suda</string>
+
+    <string name="t_buy">买入</string>
+    <string name="t_sell">卖出</string>
+    <string name="t_che">撤单</string>
+    <string name="t_cc">持仓</string>
+    <string name="t_cx">查询</string>
+
+    <string name="t_hq">行情</string>
+    <string name="t_zx">自选</string>
+    <string name="t_jy">交易</string>
+
+    <string name="t_ag">A股</string>
+    <string name="t_mg">美股</string>
+
+    <string name="t_new">新项目</string>
+    <string name="t_old">历史项目</string>
+
+    <string name="t_khq">看行情</string>
+
+    <string name="t_call">全仓</string>
+    <string name="t_chalf">半仓</string>
+    <string name="t_c13c">1/3仓</string>
+    <string name="t_c14c">1/4仓</string>
+</resources>
